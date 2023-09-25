@@ -2,7 +2,8 @@ html, body {
     width: 100%;
     margin: 0;
     padding: 0;
-    background: #150E28;
+    z-index: -200;
+    /* background: #150E28; */
 }
 
 .header-wrapper {
